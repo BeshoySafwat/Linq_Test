@@ -254,7 +254,9 @@ namespace Linq
             //مش عارف ياباشا
             #endregion
             #endregion
-
+            Extensions.PrintTable(SampleInstructors);
+            Console.WriteLine();
+            Console.WriteLine();
         }
     }
 }
